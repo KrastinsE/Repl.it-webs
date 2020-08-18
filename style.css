@@ -1,0 +1,75 @@
+
+
+body {
+  background-image: url('https://www.creativelive.com/blog/wp-content/uploads/2018/02/kit.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+h2 {
+  position: absolute;
+  left: 250px;
+  top: 270px;
+}
+
+h2 {
+    font-family: 'Italiana';font-size: 40px;
+}
+
+button {
+    background-color:transparent;
+    color: gainsboro;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+
+.Aboutme {
+  position: absolute;
+  left: 238px;
+  top: 75px;
+}
+
+.Portfolio {
+  position: absolute;
+  left: 370px;
+  top: 93px;
+}
+
+.Contacts {
+  position: absolute;
+  left: 490px;
+  top: 90px;
+  size: 3pt;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(8, 8, 8);
+  text-align: center;
+}
+
+.footer {
+    font-size: 12px;
+}
+
+.Insta {
+  border-radius: 50%;
+  position: absolute;
+  left: 115px;
+  top: 303px;
+}
+
+.Face {
+  border-radius: 50%;
+  position: absolute;
+  left: 683px;
+  top: 248px;
+}
